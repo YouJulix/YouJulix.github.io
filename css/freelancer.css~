@@ -101,6 +101,7 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+	color:#A4A4A4;
 }
 
 header .intro-text .skills {
@@ -117,6 +118,7 @@ header .intro-text .skills {
 
     header .intro-text .name {
         font-size: 4.75em;
+	color:#A4A4A4;
     }
 
     header .intro-text .skills {
